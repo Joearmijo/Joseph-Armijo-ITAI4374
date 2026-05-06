@@ -1,6 +1,25 @@
 # Assignment03-Bridging-Neuroscience-and-AI
 
-This assignment analyzed how neuroscience principles influence modern AI systems.
+This assignment explored how biological neural systems inspire modern artificial intelligence architectures and machine learning models.
+
+## Objectives
+
+- Compare biological neurons to artificial neural networks
+- Analyze how brain regions relate to AI systems
+- Understand neuroscience-inspired AI architectures
+- Explore learning and adaptation in biological and artificial systems
+- Investigate how neuroscience influences modern machine learning
+
+## Topics Covered
+
+- Biological Neurons
+- Artificial Neural Networks
+- Convolutional Neural Networks
+- Reinforcement Learning
+- Memory Systems
+- Neural Plasticity
+- Brain-AI Analogies
+- Neuroscience-Inspired AI
 
 ## Reflection
 

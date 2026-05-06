@@ -1,6 +1,24 @@
-# Lab02-Cortical-Column-Voting
+# Lab02-Cortical-Column-Voting-Simulation
 
-This lab explored cortical column voting simulations and distributed representations in neuroscience-inspired AI.
+This lab explored cortical column voting simulations and distributed representations in neuroscience-inspired artificial intelligence systems.
+
+## Objectives
+
+- Understand cortical column organization in the brain
+- Explore distributed processing and consensus mechanisms
+- Simulate voting behavior between cortical columns
+- Analyze pattern recognition through distributed representation
+- Connect neuroscience theories to AI architectures
+
+## Topics Covered
+
+- Cortical Columns
+- Distributed Representation
+- Consensus Voting
+- Pattern Recognition
+- Parallel Processing
+- Thousand Brains Theory
+- Neuroscience-Inspired AI
 
 ## Reflection
 
